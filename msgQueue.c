@@ -2,7 +2,7 @@
 *** using a UNIX message queue as the data stucture shared by single
 *** producer and three consumers.
 *** 1. parent process create a child process, and child process creates
-***    three three threads.
+***    three threads.
 *** 2. parent process is the producer,and three threads are the consumers.
 *** @author 47503174
 *** @server genuse32
